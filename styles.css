@@ -1,0 +1,65 @@
+.buttons{
+    background-color: #202020;
+    color: #fff;
+    padding: 0;
+    text-align: center;
+}
+
+.buttParent{
+    display: flex;
+}
+.buttChild{
+    width: 200px;
+    margin: auto 20px;
+}
+h1{
+    font-size: 60px;
+    width: 700px;
+    text-align: center; 
+    margin: 0 auto;
+}
+h2{
+    font-size: 16px;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+h3{
+    font-size: 16px; 
+    width: 400px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-decoration-style: none;
+}
+.reposition{
+    font-size: 24px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+.center-pic{
+    border-radius: 50%;
+    display: table-cell;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.background-image{
+    background-image:url(computer.jpg);
+    height:82vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.groupParent{
+    display: flex;
+}
+.groupChild{
+    width: 10px;
+    margin: auto 20px;
+}
+p{
+    margin: 0 auto;
+}
